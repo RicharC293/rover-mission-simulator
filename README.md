@@ -34,6 +34,11 @@ possible point, aborts the sequence and reports the obstacle.
 * Si el rover quiere desplazarse fuera del plano, se va a indicar en la aplicación mediante un mensaje que el rover no puede salir del plano y la posición en donde se detuvo el rover.
 * El rover puede tener un desplazamiento infinito que va a depender del número de instrucciones que reciba, pero una vez enviado el comando Huston debe esperar a que el rover termine de ejecutar las instrucciones para enviar un nuevo comando.
 
+### Mejoras futuras
+A continuación se detallan algunas mejoras que se pueden implementar en el futuro:
+* Implementar un sistema realtime para que las instrucciones enviadas al rover puedan ser recibidas remotamente.
+* Implementar un mapa para identificar visualmente la posición del rover en el plano.
+
 ### Tecnologías utilizadas
 * Flutter
 * Dart
@@ -68,8 +73,3 @@ El rover recibe una serie de instrucciones por ejemplo:
 https://github.com/user-attachments/assets/1f760a32-679a-427d-b82c-d30e2a106f89
 #### Web
 https://github.com/user-attachments/assets/0c54d9ab-5ad4-4b74-bd4b-eb419a0467d8
-
-
-### Mejoras futuras
-* Implementar un sistema realtime para que las instrucciones enviadas al rover puedan ser recibidas remotamente.
-* Implementar un mapa para identificar visualmente la posición del rover en el plano.
