@@ -70,5 +70,6 @@ https://github.com/user-attachments/assets/1f760a32-679a-427d-b82c-d30e2a106f89
 https://github.com/user-attachments/assets/0c54d9ab-5ad4-4b74-bd4b-eb419a0467d8
 
 
-
-
+### Mejoras futuras
+* Implementar un sistema realtime para que las instrucciones enviadas al rover puedan ser recibidas remotamente.
+* Implementar un mapa para identificar visualmente la posición del rover en el plano.
