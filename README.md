@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/c78853f9-52ed-45b9-b3bb-4537e6803775
 Mars Rover Mission
 =================
 
