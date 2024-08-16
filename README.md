@@ -64,9 +64,11 @@ El rover recibe una serie de instrucciones por ejemplo:
 
 
 ### Ejemplo de interacción
-
-
+#### App
 https://github.com/user-attachments/assets/1f760a32-679a-427d-b82c-d30e2a106f89
+#### Web
+https://github.com/user-attachments/assets/0c54d9ab-5ad4-4b74-bd4b-eb419a0467d8
+
 
 
 
