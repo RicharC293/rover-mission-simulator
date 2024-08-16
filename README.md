@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c78853f9-52ed-45b9-b3bb-4537e6803775
 Mars Rover Mission
 =================
 
@@ -64,4 +66,8 @@ El rover recibe una serie de instrucciones por ejemplo:
 
 ### Ejemplo de interacción
 
-# rover-mission-simulator
+
+https://github.com/user-attachments/assets/1f760a32-679a-427d-b82c-d30e2a106f89
+
+
+
