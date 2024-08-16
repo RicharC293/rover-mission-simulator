@@ -26,7 +26,7 @@ possible point, aborts the sequence and reports the obstacle.
 * El rover inicialmente va a solicitar que se le indique el punto en donde se encuentra en el plano, este dato se lo ingresa en la aplicación a través de sliders que limitan el valor a las dimensiones del plano.
 * El rover necesita una dirección inicial, la cual se le indica en la aplicación a través de botones que permiten seleccionar entre Norte, Sur, Este u Oeste.
 * El rover indica mediante un mensaje en la aplicación que se encuentra listo para recibir instrucciones.
-* Para que sea más fácil de identificar los mensajes del rover y los del usuario se identifica al rover con un avatar de imagen y se define al usuario como Huston mediante un avatar con la letra H.
+* Para que sea más fácil de identificar los mensajes del rover y los del usuario, se identifica al rover con un avatar de imagen y se define al usuario como Huston mediante un avatar con la letra H.
 * El rover recibe instrucciones a través de un campo de texto en la aplicación, en donde se pueden ingresar las instrucciones de movimiento del rover.
 * Se va a simular una latencia de 1 segundo para cada instrucción que recibe el rover, esto con el fin de simular el tiempo que tarda en recibir la instrucción y ejecutarla.
 * Cada movimiento que hace el rover se va a indicar en la aplicación mediante un mensaje.
